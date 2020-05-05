@@ -1,1 +1,1 @@
-this is a changed server configuration script
+server.port=8081
